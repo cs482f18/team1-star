@@ -1,7 +1,7 @@
 package buggy_ttt;
 /**
  * Represents a player in the TicTacToe Game
- * @author Dr. Raunak 
+ * @author TEAM1 STAR 
  * @version 1.0 4/5/2018
  */
 
